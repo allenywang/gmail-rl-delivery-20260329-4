@@ -1,0 +1,16 @@
+{
+  "baseUrl": "http://127.0.0.1:63446",
+  "launchCommand": "pnpm start",
+  "validationSteps": [
+    "Reset the environment",
+    "Create a draft",
+    "Send the draft",
+    "Star the sent thread",
+    "Verify snapshot growth and sent label visibility"
+  ],
+  "inboxThreadCountBefore": 2,
+  "sentThreadCountAfter": 1,
+  "activeSnapshotId": "snapshot-5",
+  "snapshotCount": 47,
+  "sentThreadId": "thread-4"
+}
